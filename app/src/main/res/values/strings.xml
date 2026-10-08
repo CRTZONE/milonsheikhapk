@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MultiBrowser</string>
+    <string name="title_multi_lane">Multi-Instance Browser</string>
+    <string name="lane_title">Lane %1$d</string>
+    <string name="saved_count">Saved %1$d</string>
+    <string name="not_found_count">Not found %1$d</string>
+    <string name="skipped_count">Skipped %1$d</string>
+    <string name="action_start">Start</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_stop">Stop</string>
+    <string name="btn_screens">Screens</string>
+    <string name="btn_extensions">Extensions</string>
+    <string name="btn_history">History</string>
+    <string name="btn_batch_nav">Batch URL</string>
+    <string name="btn_logs">Execution Logs</string>
+    <string name="desktop_mode">Desktop Mode</string>
+    <string name="mobile_mode">Mobile Mode</string>
+    <string name="search_or_type_url">Search or enter URL…</string>
+    <string name="home_url">https://www.google.com</string>
+</resources>
